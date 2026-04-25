@@ -27,8 +27,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link to="/about" className="text-base text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white">
-                  关于我
+                <Link to="https://zmxf.dpdns.org/index.php/隐私政策.html" className="text-base text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white">
+                  隐私政策
                 </Link>
               </li>
               
