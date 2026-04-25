@@ -72,7 +72,7 @@ export default function Footer() {
         {/* 版权信息 */}
         <div className="mt-8 border-t border-gray-200 dark:border-gray-800 pt-8 text-center">
           <p className="text-base text-gray-500 dark:text-gray-400">
-            &copy; {new Date().getFullYear()} 1Pages. All rights reserved.
+            &copy; {new Date().getFullYear()} ZMXF. All rights reserved.
           </p>
         </div>
       </div>
