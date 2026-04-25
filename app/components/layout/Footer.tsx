@@ -11,7 +11,7 @@ export default function Footer() {
               关于
             </h3>
             <p className="mt-4 text-base text-gray-600 dark:text-gray-300">
-              1Pages 是一个基于 Remix 和 边缘计算（无服务器） 构建的现代化Ai博客平台。
+              ZMXF 是一个基于 Remix 和 边缘计算（无服务器） 构建的现代化Ai博客平台。
             </p>
           </div>
 
